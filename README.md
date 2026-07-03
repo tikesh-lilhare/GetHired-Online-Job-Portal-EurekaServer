@@ -34,6 +34,7 @@ The project uses the following dependencies:
 ---
 
 ## 📁 Project Structure
+<img width="425" height="883" alt="Screenshot 2026-07-03 214244" src="https://github.com/user-attachments/assets/a5bc161d-9387-4509-a6b8-6c8edd462675" />
 
 
 ---
