@@ -8,6 +8,7 @@ The Eureka Server is the Service Discovery component of the AI-Powered Job Porta
 
 ## 🏗 Microservice Architecture
 
+<img width="1536" height="1024" alt="ChatGPT Image Jul 3, 2026, 09_34_28 PM" src="https://github.com/user-attachments/assets/3e7f2fc6-8388-4f18-86e9-25a8452183f1" />
 
 
 ---
